@@ -238,10 +238,11 @@ TEXT 类型类似于 CHAR（0-255 字节）和 VARCHAR（0-65,535 字节），�
 网站：https://www.programmercarl.com/\r
 \r
 | 时间       | 题目                      | 类型                    | 难度                    |\r
-| `,hidden:!0,readingTime:!1,recommend:1,title:"代码随想录",date:"2023-12-26 09:08:33"}},{route:"/blog/leetcode/algorithm/两数之和.html",meta:{description:"",recommend:!1,tag:["哈希表"],date:"2023-12-15 14:00:00",title:"两数之和"}},{route:"/blog/leetcode/algorithm/买卖股票的最佳时机.html",meta:{description:"",recommend:!1,tag:["哈希表","快慢指针"],date:"2023-12-15 17:00:00",title:"买卖股票的最佳时机"}},{route:"/blog/leetcode/algorithm/二分查找.html",meta:{description:"",recommend:!1,tag:["二分查找"],date:"2023-12-16 10:00:00",title:"二分查找"}},{route:"/blog/leetcode/algorithm/反转链表.html",meta:{description:"",recommend:!1,tag:["迭代","递归","双指针"],date:"2023-12-13 21:00:00",title:"反转链表"}},{route:"/blog/leetcode/algorithm/合并两个有序链表.html",meta:{description:"",recommend:!1,tag:["递归","迭代"],date:"2023-12-15 11:00:00",title:"合并两个有序链表"}},{route:"/blog/leetcode/algorithm/最大子序和.html",meta:{description:"",recommend:!1,tag:["贪心","动态规划"],date:"2023-12-14 17:00:00",title:"最大子序和"}},{route:"/blog/leetcode/algorithm/有序数组的平方.html",meta:{description:"",recommend:!1,tag:["双指针"],date:"2023-12-16 15:00:00",title:"有序数组的平方"}},{route:"/blog/leetcode/algorithm/环形链表.html",meta:{description:"",recommend:!1,tag:["哈希表","快慢指针"],date:"2023-12-15 16:00:00",title:"环形链表"}},{route:"/blog/leetcode/algorithm/移除元素.html",meta:{description:"",recommend:!1,tag:["快慢指针","相向指针"],date:"2023-12-16 10:00:00",title:"移除元素"}},{route:"/blog/leetcode/algorithm/移除链表元素.html",meta:{description:"",recommend:!1,tag:["虚拟头节点"],date:"2023-12-22 14:00:00",title:"移除链表元素"}},{route:"/blog/leetcode/algorithm/螺旋矩阵II.html",meta:{description:"",recommend:!1,tag:["二分查找"],date:"2023-12-18 21:00:00",title:"螺旋矩阵II"}},{route:"/blog/leetcode/algorithm/设计链表.html",meta:{description:"",recommend:!1,tag:["虚拟头节点"],date:"2023-12-22 14:00:00",title:"设计链表"}},{route:"/blog/leetcode/algorithm/长度最小的子数组.html",meta:{description:"",recommend:!1,tag:["双指针"],date:"2023-12-16 16:00:00",title:"长度最小的子数组"}},{route:"/blog/leetcode/database/",meta:{description:`\r
-# 困难题\r
-| 时间       | 题目                                                    | 难度 |\r
-| `,hidden:!0,readingTime:!1,recommend:1,title:"困难题",date:"2023-12-26 18:02:51"}},{route:"/blog/mq/kafka/",meta:{description:`# Kafka\r
+| `,hidden:!0,readingTime:!1,recommend:1,title:"代码随想录",date:"2023-12-26 09:08:33"}},{route:"/blog/leetcode/algorithm/两数之和.html",meta:{description:"",recommend:!1,tag:["哈希表"],date:"2023-12-15 14:00:00",title:"两数之和"}},{route:"/blog/leetcode/algorithm/买卖股票的最佳时机.html",meta:{description:"",recommend:!1,tag:["哈希表","快慢指针"],date:"2023-12-15 17:00:00",title:"买卖股票的最佳时机"}},{route:"/blog/leetcode/algorithm/二分查找.html",meta:{description:"",recommend:!1,tag:["二分查找"],date:"2023-12-16 10:00:00",title:"二分查找"}},{route:"/blog/leetcode/algorithm/反转链表.html",meta:{description:"",recommend:!1,tag:["迭代","递归","双指针"],date:"2023-12-13 21:00:00",title:"反转链表"}},{route:"/blog/leetcode/algorithm/合并两个有序链表.html",meta:{description:"",recommend:!1,tag:["递归","迭代"],date:"2023-12-15 11:00:00",title:"合并两个有序链表"}},{route:"/blog/leetcode/algorithm/最大子序和.html",meta:{description:"",recommend:!1,tag:["贪心","动态规划"],date:"2023-12-14 17:00:00",title:"最大子序和"}},{route:"/blog/leetcode/algorithm/有序数组的平方.html",meta:{description:"",recommend:!1,tag:["双指针"],date:"2023-12-16 15:00:00",title:"有序数组的平方"}},{route:"/blog/leetcode/algorithm/环形链表.html",meta:{description:"",recommend:!1,tag:["哈希表","快慢指针"],date:"2023-12-15 16:00:00",title:"环形链表"}},{route:"/blog/leetcode/algorithm/移除元素.html",meta:{description:"",recommend:!1,tag:["快慢指针","相向指针"],date:"2023-12-16 10:00:00",title:"移除元素"}},{route:"/blog/leetcode/algorithm/移除链表元素.html",meta:{description:"",recommend:!1,tag:["虚拟头节点"],date:"2023-12-22 14:00:00",title:"移除链表元素"}},{route:"/blog/leetcode/algorithm/螺旋矩阵II.html",meta:{description:"",recommend:!1,tag:["二分查找"],date:"2023-12-18 21:00:00",title:"螺旋矩阵II"}},{route:"/blog/leetcode/algorithm/设计链表.html",meta:{description:"",recommend:!1,tag:["虚拟头节点"],date:"2023-12-22 14:00:00",title:"设计链表"}},{route:"/blog/leetcode/algorithm/长度最小的子数组.html",meta:{description:"",recommend:!1,tag:["双指针"],date:"2023-12-16 16:00:00",title:"长度最小的子数组"}},{route:"/blog/leetcode/database/",meta:{description:`# SQL\r
+## 高频 SQL 50 题（基础版）\r
+### 查询\r
+| 时间       | 题目                     | 类型              | 难度 |\r
+| `,hidden:!0,readingTime:!1,title:"SQL",date:"2023-12-28 11:43:07"}},{route:"/blog/mq/kafka/",meta:{description:`# Kafka\r
 \r
 | 日期 | 标题                    |\r
 | `,hidden:!0,readingTime:!1,recommend:1,title:"Kafka",date:"2023-12-26 09:08:33"}},{route:"/blog/mq/kafka/kafka概述.html",meta:{description:"",cover:"/blog/mq/kafka/images/Kafka拓扑结构.png",recommend:!1,tag:["Kafka"],date:"2023-11-27 21:00:00",title:"Kafka概述"}},{route:"/blog/project/glsx/",meta:{description:`# 谷粒随享\r
@@ -875,25 +876,49 @@ Spring 为了知道程序员在哪些地方标记了什么注解，就需要通�
   Spring 提供了以下多个注解，这些注解可以直接标注在 Java 类上，将它们定义成 Spring Bean。\r
 \r
   | 注解        | 说明                                                         |\r
-  | `,cover:"/blog/spring/springframework/images/Component注解.png",recommend:!1,tag:["SpringFramework","IoC","DI"],date:"2023-12-06 20:00:00",top:1,title:"基于注解方式管理Bean"}},{route:"/blog/spring/springframework/基于配置类方式管理Bean.html",meta:{description:"",cover:"/blog/spring/springframework/images/Component注解.png",hidden:!0,recommend:!1,tag:["SpringFramework","IoC","DI"],date:"2023-12-01 20:00:00",title:"基于配置类方式管理Bean"}},{route:"/blog/spring/springframework/整合Spring5-Test5搭建测试环境.html",meta:{description:"",title:"",date:"2023-12-26 09:08:33"}},{route:"/blog/leetcode/database/medium/最后一个能进入巴士的人.html",meta:{description:`\r
+  | `,cover:"/blog/spring/springframework/images/Component注解.png",recommend:!1,tag:["SpringFramework","IoC","DI"],date:"2023-12-06 20:00:00",top:1,title:"基于注解方式管理Bean"}},{route:"/blog/spring/springframework/基于配置类方式管理Bean.html",meta:{description:"",cover:"/blog/spring/springframework/images/Component注解.png",hidden:!0,recommend:!1,tag:["SpringFramework","IoC","DI"],date:"2023-12-01 20:00:00",title:"基于配置类方式管理Bean"}},{route:"/blog/spring/springframework/整合Spring5-Test5搭建测试环境.html",meta:{description:"",title:"",date:"2023-12-26 09:08:33"}},{route:"/blog/leetcode/database/medium/换座位.html",meta:{description:`\r
+# 换座位\r
+\r
+表: \`Seat\`\r
+\r
+\`\`\`\r
++`,hidden:!0,recommend:!1,date:"2023-12-27 10:30:00",title:"换座位"}},{route:"/blog/leetcode/database/medium/最后一个能进入巴士的人.html",meta:{description:`\r
 # 最后一个能进入巴士的人\r
 \r
 表: \`Queue\`\r
 \r
 \`\`\`\r
-+`,hidden:!0,recommend:!1,date:"2023-12-26 14:30:00",title:"最后一个能进入巴士的人"}},{route:"/blog/leetcode/database/medium/股票的资本损益.html",meta:{description:`\r
++`,hidden:!0,recommend:!1,date:"2023-12-26 14:30:00",title:"最后一个能进入巴士的人"}},{route:"/blog/leetcode/database/medium/确认率.html",meta:{description:`\r
+# 确认率\r
+\r
+表: \`Signups\`\r
+\r
+\`\`\`\r
++`,hidden:!0,recommend:!1,date:"2023-12-26 11:30:00",title:"确认率"}},{route:"/blog/leetcode/database/medium/股票的资本损益.html",meta:{description:`\r
 # 股票的资本损益\r
 \r
 \`Stocks\` 表：\r
 \r
 \`\`\`\r
-+`,hidden:!0,recommend:!1,date:"2023-12-24 13:00:00",title:"股票的资本损益"}},{route:"/blog/leetcode/database/simple/2020年最后一次登录.html",meta:{description:`\r
++`,hidden:!0,recommend:!1,date:"2023-12-24 13:00:00",title:"股票的资本损益"}},{route:"/blog/leetcode/database/medium/至少有5名直接下属的经理.html",meta:{description:`\r
+# 每至少有5名直接下属的经理\r
+\r
+表: \`Employee\`\r
+\r
+\`\`\`\r
++`,hidden:!0,recommend:!1,date:"2023-12-28 11:30:00",title:"每至少有5名直接下属的经理"}},{route:"/blog/leetcode/database/simple/2020年最后一次登录.html",meta:{description:`\r
 # 2020年最后一次登录\r
 \r
 表: \`Logins\`\r
 \r
 \`\`\`\r
-+`,hidden:!0,recommend:!1,date:"2023-12-26 16:00:00",title:"2020年最后一次登录"}},{route:"/blog/leetcode/database/simple/丢失信息的雇员.html",meta:{description:`\r
++`,hidden:!0,recommend:!1,date:"2023-12-26 16:00:00",title:"2020年最后一次登录"}},{route:"/blog/leetcode/database/simple/上升的温度.html",meta:{description:`\r
+# 上升的温度\r
+\r
+表： \`Weather\`\r
+\r
+\`\`\`\r
++`,hidden:!0,recommend:!1,date:"2023-12-28 08:40:00",title:"上升的温度"}},{route:"/blog/leetcode/database/simple/丢失信息的雇员.html",meta:{description:`\r
 # 丢失信息的雇员\r
 \r
 表: \`Employees\`\r
@@ -941,7 +966,25 @@ Spring 为了知道程序员在哪些地方标记了什么注解，就需要通�
 表：\`Employee\` \r
 \r
 \`\`\`\r
-+`,hidden:!0,recommend:!1,date:"2023-12-26 16:20:00",title:"员工奖金"}},{route:"/blog/leetcode/database/simple/按日期分组销售产品.html",meta:{description:`\r
++`,hidden:!0,recommend:!1,date:"2023-12-26 16:20:00",title:"员工奖金"}},{route:"/blog/leetcode/database/simple/大的国家.html",meta:{description:`\r
+# 大的国家\r
+\r
+\`World\` 表：\r
+\r
+\`\`\`\r
++`,hidden:!0,recommend:!1,date:"2023-12-27 23:00:00",title:"大的国家"}},{route:"/blog/leetcode/database/simple/学生们参加各科测试的次数.html",meta:{description:`\r
+# 学生们参加各科测试的次数\r
+\r
+学生表: \`Students\`\r
+\r
+\`\`\`\r
++`,hidden:!0,recommend:!1,date:"2023-12-28 09:30:00",title:"学生们参加各科测试的次数"}},{route:"/blog/leetcode/database/simple/寻找用户推荐人.html",meta:{description:`\r
+# 寻找用户推荐人\r
+\r
+表: \`Customer\`\r
+\r
+\`\`\`\r
++`,hidden:!0,recommend:!1,date:"2023-12-27 22:30:00",title:"寻找用户推荐人"}},{route:"/blog/leetcode/database/simple/按日期分组销售产品.html",meta:{description:`\r
 # 按日期分组销售产品\r
 \r
 表 \`Activities\`：\r
