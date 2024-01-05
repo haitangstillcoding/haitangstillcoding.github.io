@@ -625,7 +625,7 @@ public class TestForeach {
         for (int num : nums) {
             System.out.println(num);
         }
-        System.out.println("`,title:"集合框架",date:"2024-01-04 21:50:25"}},{route:"/blog/java/juc/",meta:{description:`# JUC\r
+        System.out.println("`,title:"集合框架",date:"2024-01-05 21:08:24"}},{route:"/blog/java/juc/",meta:{description:`# JUC\r
 \r
 | 日期 | 标题                    |\r
 | `,hidden:!0,readingTime:!1,recommend:1,title:"JUC",date:"2023-12-26 09:08:33"}},{route:"/blog/java/jvm/",meta:{description:`# JVM\r
@@ -640,7 +640,7 @@ public class TestForeach {
 ## 高频 SQL 50 题（基础版）\r
 ### 查询\r
 | 时间       | 题目                     | 类型              | 难度 |\r
-| `,hidden:!0,readingTime:!1,title:"SQL",date:"2024-01-04 21:50:25"}},{route:"/blog/mq/kafka/",meta:{description:`# Kafka\r
+| `,hidden:!0,readingTime:!1,title:"SQL",date:"2024-01-05 21:08:24"}},{route:"/blog/mq/kafka/",meta:{description:`# Kafka\r
 \r
 | 日期 | 标题                    |\r
 | `,hidden:!0,readingTime:!1,recommend:1,title:"Kafka",date:"2023-12-26 09:08:33"}},{route:"/blog/mq/kafka/kafka概述.html",meta:{description:"",cover:"/blog/mq/kafka/images/Kafka拓扑结构.png",recommend:!1,tag:["Kafka"],date:"2023-11-27 21:00:00",title:"Kafka概述"}},{route:"/blog/project/glsx/",meta:{description:`# 谷粒随享\r
